@@ -16,6 +16,8 @@
     "tailwindcss": "^3.4.0"
   },
   "devDependencies": {
+    "@types/node": "22.15.29",
+    "@types/react": "19.1.6",
     "typescript": "^5.0.0"
   },
   "description": "This is the landing page and dashboard frontend for RateRadar365. Built with:",
@@ -23,10 +25,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs""scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-}
-
+  "type": "commonjs"
 }
